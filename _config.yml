@@ -1,0 +1,11 @@
+# basic options
+title: Cure Catalog
+author: Big Dookus
+email: your-email@domain.com
+description: Ancient Answers to Modern Maladies
+twitter_username: jekyllrb
+github_username:  drabbuh
+
+# Build settings
+markdown: kramdown
+theme: minima
